@@ -1,6 +1,8 @@
+# NEXT.JS를 공부하기 위한 연습용 레포입니다. 
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+## 시작하기
 
 First, run the development server:
 
@@ -13,6 +15,8 @@ pnpm dev
 # or
 bun dev
 ```
+
+위 방법으로 작동하지 않는다면 next가 전역으로 설치되지 않은 문제일 수 있습니다. `npm install next -g`를 통해 설치해주세요. 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
